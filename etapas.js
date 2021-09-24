@@ -55,8 +55,8 @@ let etapas = [
                 partido:'Partido Socialista Brasileiro - PSB',
                 vice: 'MARILENE',
                 fotos:[
-                    {url:'dr_ze_luis.jpg', legenda: 'Prefeito'},
-                    {url:'marilene.jpg', legenda: 'Vice-Prefeito', small: true}
+                    {url:'wiggum.png', legenda: 'Prefeito'},
+                    {url:'wiggum.jpg', legenda: 'Vice-Prefeito', small: true}
                 ]
             },
             {
@@ -65,8 +65,8 @@ let etapas = [
                 partido:'Partido Social Democrático - PSD',
                 vice: 'ZE HILTON MARTINS',
                 fotos:[
-                    {url:'aldi_borges.jpg', legenda: 'Prefeito'},
-                    {url:'ze_hilton.jpg', legenda: 'Vice-Prefeito', small: true}
+                    {url:'vice.jpeg', legenda: 'Prefeito'},
+                    {url:'prefeito.jpg', legenda: 'Vice-Prefeito', small: true}
                 ]
             },
             {
@@ -75,8 +75,8 @@ let etapas = [
                 partido:'Solidariedade - SOLIDARIEDADE',
                 vice: 'GILMAR DO FRANGOSUL',
                 fotos:[
-                    {url:'joel.jpeg', legenda: 'Prefeito'},
-                    {url:'gilmar.jpeg', legenda: 'Vice-Prefeito', small: true}
+                    {url:'prefeito.jpg', legenda: 'Prefeito'},
+                    {url:'vice.jpeg', legenda: 'Vice-Prefeito', small: true}
                 ]
             },
         ]
