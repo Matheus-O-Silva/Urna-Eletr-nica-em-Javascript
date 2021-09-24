@@ -4,21 +4,45 @@ let etapas = [
         numeros: 5,
         candidatos: [
             {
-                numero:38111,
-                name: 'Fulano de Tal',
-                partido: 'ABC',
-                fotos:[
+                numero: '55777',
+                nome: 'ADEUZERITA PACHECO',
+                partido: 'Partido Social Democrático - PSD',
+                fotos: [
+                    {url:'vice.jpeg', legenda: 'Vereador'}          
+                ]
+            },
+            {
+                numero: '55222',
+                nome: 'ALDEIR NEGUINHA DO HOTEL',
+                partido: 'Partido Social Democrático-PSD',
+                fotos: [
                     {url:'prefeito.jpg', legenda: 'Vereador'}
                 ]
             },
             {
-                numero: 77222,
-                name: 'Beltrano da Silva',
-                partido: 'DEFG',
-                fotos:[
+                numero: '40234',
+                nome: 'ALZIRA DO SELEDOME',
+                partido: 'Partido Socialista Brasileiro - PSB',
+                fotos: [
+                    {url:'mayor1.jpeg', legenda: 'Vereador'}
+                ]
+            },
+            {
+                numero: '40111',
+                nome: 'ANANIAS BORGES',
+                partido: 'Partido Socicalista Brasileiro - PSB',
+                fotos: [
                     {url:'wiggum.png', legenda: 'Vereador'}
                 ]
             },
+            {
+                numero: '55678',
+                nome: 'ANTÔNIO DO ANIZIO',
+                partido: 'Partido Social Democrático - PSD',
+                fotos: [
+                    {url:'prefeito.jpg', legenda: 'Vereador'}
+                ]
+            }
         ]
     },
     {
@@ -26,25 +50,35 @@ let etapas = [
         numeros: 2,
         candidatos: [
             {
-                numero: 99,
-                name: 'Ciclano',
-                partido: 'ABC',
-                vice: 'Cic',
+                numero:'40',
+                nome:'DR ZÉ LUIS',
+                partido:'Partido Socialista Brasileiro - PSB',
+                vice: 'MARILENE',
                 fotos:[
-                    {url:'vice.jpg', legenda: 'Prefeito'},
-                    {url:'mayor1.jpeg', legenda: 'Vice-Prefeito', small: true}
+                    {url:'dr_ze_luis.jpg', legenda: 'Prefeito'},
+                    {url:'marilene.jpg', legenda: 'Vice-Prefeito', small: true}
                 ]
             },
             {
-                numero: 84,
-                name: 'Zulano',
-                partido: 'QWERTY',
-                vice: 'Zul',
+                numero:'55',
+                nome:'ALDI BORGES',
+                partido:'Partido Social Democrático - PSD',
+                vice: 'ZE HILTON MARTINS',
                 fotos:[
-                    {url:'wiggum.png', legenda: 'Prefeito'},
-                    {url:'vice.jpeg', legenda: 'Vice-Prefeito', small: true}
+                    {url:'aldi_borges.jpg', legenda: 'Prefeito'},
+                    {url:'ze_hilton.jpg', legenda: 'Vice-Prefeito', small: true}
                 ]
-            }
+            },
+            {
+                numero:'77',
+                nome:'JOEL DA PIZZARIA',
+                partido:'Solidariedade - SOLIDARIEDADE',
+                vice: 'GILMAR DO FRANGOSUL',
+                fotos:[
+                    {url:'joel.jpeg', legenda: 'Prefeito'},
+                    {url:'gilmar.jpeg', legenda: 'Vice-Prefeito', small: true}
+                ]
+            },
         ]
     }
 ];
